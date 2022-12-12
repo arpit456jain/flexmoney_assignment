@@ -59,3 +59,9 @@ pip install -r requirements.txt
 
 
 Screenshots Of Projects
+![Flexmoney assignment](https://user-images.githubusercontent.com/55352601/207093522-06e53afb-efa1-4c46-b53c-3fba730b0191.png)
+<img width="935" alt="register_user" src="https://user-images.githubusercontent.com/55352601/207093535-ed39066d-f1c8-4f88-b26b-b6a582908c4c.png">
+<img width="944" alt="already_registered_user" src="https://user-images.githubusercontent.com/55352601/207093536-ba9ced7c-0ec9-44c6-a9a0-5fcf2f8f7517.png">
+
+
+ER daigram link : https://lucid.app/lucidchart/8b0d70f2-81e9-4f3b-8169-5310603a177f/edit?viewport_loc=4%2C370%2C1365%2C637%2C0_0&invitationId=inv_919ace16-3b15-4dbd-b8d4-4a89503e4f4a
