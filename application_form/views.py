@@ -1,5 +1,4 @@
 from .models import  Application_form,Alredy_registered_user
-from django.conf import settings 
 from django.http import HttpResponse
 from django.shortcuts import render
 from application_form.serializers import Application_formSerializer,Alredy_registered_userSerializer
